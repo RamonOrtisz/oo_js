@@ -17,4 +17,4 @@ const pessoa = new Pessoa('Ramon', 'Galdino', '171', '65', '21');
 
 pessoa.minhasInfos();
 
-// acrescentei o 'Nome' dentro do console.log para ficar melhor apresentado //
+// acrescentei o 'Nome' 'altura' e os demais dentro do console.log para ficar melhor apresentado //
